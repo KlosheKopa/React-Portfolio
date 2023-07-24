@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://KlosheKopa.github.io/React-Portfolio",
+  "homepage": "http://KlosheKopa.github.io/React-Portfolio/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.19",
     "@chakra-ui/react": "^2.7.1",

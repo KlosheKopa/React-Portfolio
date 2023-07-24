@@ -12,19 +12,19 @@ const Navigation = () => {
 			<Breadcrumb>
 				<BreadcrumbItem>
 					<BreadcrumbLink>
-						<Link to="/">About</Link>
+						<Link to="React-Portfolio/">About</Link>
 					</BreadcrumbLink>
 				</BreadcrumbItem>
 
 				<BreadcrumbItem>
 					<BreadcrumbLink>
-						<Link to="/portfolio">Portfolio</Link>
+						<Link to="React-Portfolio/portfolio">Portfolio</Link>
 					</BreadcrumbLink>
 				</BreadcrumbItem>
 
 				<BreadcrumbItem isCurrentPage>
 					<BreadcrumbLink>
-						<Link to="/resume">Resume</Link>
+						<Link to="React-Portfolio/resume">Resume</Link>
 					</BreadcrumbLink>
 				</BreadcrumbItem>
 			</Breadcrumb>

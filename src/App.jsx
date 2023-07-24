@@ -34,10 +34,10 @@ function App() {
               maxW='container.md'
             >
               <Routes >
-                <Route path="/about" element={<About />} />
-                <Route path="/portfolio" element={<Portfolio />} />
-                <Route path="/resume" element={<Resume />} />
-                <Route path="/" element={<About />} />
+                <Route path="React-Portfolio/about" element={<About />} />
+                <Route path="React-Portfolio/portfolio" element={<Portfolio />} />
+                <Route path="React-Portfolio/resume" element={<Resume />} />
+                <Route path='React-Portfolio/' element={<About />} />
               </Routes>
             </Container>
             <Footer />
