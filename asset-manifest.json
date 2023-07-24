@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.1328cd11.css",
-    "main.js": "/React-Portfolio/static/js/main.29e49903.js",
+    "main.js": "/React-Portfolio/static/js/main.38635113.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/NPRT.png": "/React-Portfolio/static/media/NPRT.4f221af94caa882a6b4d.png",
     "static/media/st_helens_image.jpg": "/React-Portfolio/static/media/st_helens_image.97a0e79987ed4dcd98e2.jpg",
@@ -14,11 +14,11 @@
     "static/media/slick.woff": "/React-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/React-Portfolio/index.html",
     "main.1328cd11.css.map": "/React-Portfolio/static/css/main.1328cd11.css.map",
-    "main.29e49903.js.map": "/React-Portfolio/static/js/main.29e49903.js.map",
+    "main.38635113.js.map": "/React-Portfolio/static/js/main.38635113.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1328cd11.css",
-    "static/js/main.29e49903.js"
+    "static/js/main.38635113.js"
   ]
 }
